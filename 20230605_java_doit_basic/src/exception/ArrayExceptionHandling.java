@@ -1,9 +1,7 @@
 package exception;
 
 public class ArrayExceptionHandling {
-
 	public static void main(String[] args) {
-
 		int[] arr = new int[5]; // int형 5크기 배열을 선언
 
 		try {
@@ -18,5 +16,4 @@ public class ArrayExceptionHandling {
 		}
 		System.out.println("= 프로그램 종료 =");
 	}
-
 }
